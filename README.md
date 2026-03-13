@@ -9,7 +9,7 @@ Building modern digital products for real businesses
 </p>
 
 <p align="center">
-🇨🇭 Based in Switzerland
+Based in Switzerland
 </p>
 
 <p align="center">
