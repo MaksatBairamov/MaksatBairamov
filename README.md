@@ -108,9 +108,3 @@ https://www.linkedin.com/in/maksat-bairamov-29a358268/
 
 🎮 Steam  
 https://steamcommunity.com/id/omana777/
-
----
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=MaksatBairamov&icon=5&color=6" />
-</p>
