@@ -12,6 +12,13 @@ Building modern digital products for real businesses
 Based in Switzerland
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/MaksatBairamov/MaksatBairamov/output/github-contribution-grid-snake.svg">
+</p>
+
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Products;Always+Learning+New+Technologies" />
 </p>
