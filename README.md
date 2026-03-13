@@ -76,23 +76,25 @@
 
 👉 **[www.maksatbairamov.ch](https://www.maksatbairamov.ch)**
 
-Some of my projects:
+Some of the projects I've built:
 
-- **FinConPro** — financial services platform
-- **Credora** — financial comparison web platform
-- **Text-Stübli** — business website for a Swiss client
-- **Personal Portfolio** — developer portfolio website
+- **Seelä Budigg** — website for a Swiss family counseling and social pedagogy service  
+- **FinConPro** — financial services platform with modern UI and digital consultation tools  
+- **Halyna Khramova Photography** — professional photographer portfolio website based in Bern  
+- **Text-Stübli** — Swiss writing and communication service website  
+- **Personal Portfolio** — my developer portfolio showcasing projects and technical work
 
 ---
 
 ## 🚀 Featured Projects
 
 | Project | Description |
-|---------|-------------|
-| 🌐 **FinConPro** | Financial platform with calculator and services marketplace |
-| 📊 **Credora** | Financial comparison platform with modern UI |
-| 🏢 **Text-Stübli** | Swiss business website with custom design approach |
-| 💻 **Portfolio** | Personal developer portfolio and presentation website |
+|--------|-------------|
+| 🌿 **Seelä Budigg** | Website for a Swiss family counseling and social pedagogy service |
+| 💼 **FinConPro** | Financial platform with modern UI and digital consultation tools |
+| 📷 **Halyna Khramova Photography** | Professional photographer portfolio website based in Bern |
+| ✍️ **Text-Stübli** | Swiss business website for writing and communication services |
+| 💻 **Portfolio** | Personal developer portfolio presenting projects and experience |
 
 ---
 
