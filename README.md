@@ -1,4 +1,4 @@
-<h1 align="center">WAZZUUUUP 📞😱 I'm Maksat Bairamov</h1>
+<h1 align="center">WAZZUUUUP 📞😱 I'm Maksat Bairamov ! </h1>
 
 <p align="center">
   <strong>Full-Stack Developer • React • Next.js • TypeScript</strong>
