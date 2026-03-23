@@ -81,7 +81,7 @@ Some of the projects I've built:
 - **Seelä Budigg** — website for a Swiss family counseling and social pedagogy service  
 - **FinConPro** — financial services platform with modern UI and digital consultation tools  
 - **Halyna Khramova Photography** — professional photographer portfolio website based in Bern  
-- **Text-Stübli** — Swiss writing and communication service website  
+- **Text-Stübli** — Swiss writing and communication service website | Project status: On hold (client) 
 - **Personal Portfolio** — my developer portfolio showcasing projects and technical work
 
 ---
@@ -93,7 +93,7 @@ Some of the projects I've built:
 | 🌿 **Seelä Budigg** | Website for a Swiss family counseling and social pedagogy service |
 | 💼 **FinConPro** | Financial platform with modern UI and digital consultation tools |
 | 📷 **Halyna Khramova Photography** | Professional photographer portfolio website based in Bern |
-| ✍️ **Text-Stübli** | Swiss business website for writing and communication services |
+| ✍️ **Text-Stübli** | Swiss business website for writing and communication services | Project status: On hold (client)
 | 💻 **Portfolio** | Personal developer portfolio presenting projects and experience |
 
 ---
