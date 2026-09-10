@@ -20,9 +20,6 @@
   <a href="https://www.maksatbairamov.ch">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/maksat-bairamov-29a358268/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://steamcommunity.com/id/omana777/">
     <img src="https://img.shields.io/badge/Steam-Add%20Friend-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   </a>
@@ -127,8 +124,6 @@ Some of the projects I've built:
 🌐 Portfolio  
 [https://www.maksatbairamov.ch](https://www.maksatbairamov.ch)
 
-💼 LinkedIn  
-[https://www.linkedin.com/in/maksat-bairamov-29a358268/](https://www.linkedin.com/in/maksat-bairamov-29a358268/)
 
 🎮 Steam  
 [https://steamcommunity.com/id/omana777/](https://steamcommunity.com/id/omana777/)
